@@ -4,7 +4,7 @@ An end-to-end machine learning project that predicts house prices in five Punjab
 (Pakistan) cities, built entirely on real listings scraped from
 [Zameen.com](https://www.zameen.com).
 
-**Live demo:** _[add your Streamlit Cloud link here after deployment]_
+**Live demo:** https://house-price-predictor-rapflznjocectfhm7d74ms.streamlit.app/
 
 ---
 
